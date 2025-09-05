@@ -1,0 +1,20 @@
+http:
+  port: "8081"
+
+db:
+ sfc:
+  accountname: "PTWXDSX-CF63578"
+  warehouse: "COMPUTE_WH"
+  database: "HOSPITALLOCATORDB"
+  user: "SINGSING"
+  password: "Narsing@12345678"
+  role: "ACCOUNTADMIN"
+  schema: "PUBLIC"
+  
+  
+email:
+  config:
+  host: "smtp.gmail.com"
+  port: "587"
+  user: "narsingbeesetti06@gmail.com"
+  password: "kejo yanz wjpo vnum"
